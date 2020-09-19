@@ -1,6 +1,6 @@
-package com.java.behavioral.abstractfactory.color;
+package com.java.creational.abstractfactory.color;
 
-import com.java.behavioral.abstractfactory.AbstractFactory;
+import com.java.creational.abstractfactory.AbstractFactory;
 
 public class ColorFactory implements AbstractFactory<Color> {
     @Override

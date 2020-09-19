@@ -1,7 +1,7 @@
-package com.java.behavioral.abstractfactory;
+package com.java.creational.abstractfactory;
 
-import com.java.behavioral.abstractfactory.animal.Duck;
-import com.java.behavioral.abstractfactory.color.White;
+import com.java.creational.abstractfactory.animal.Duck;
+import com.java.creational.abstractfactory.color.White;
 
 public class AbstractFactoryExample {
     public static void main(String[] args) {

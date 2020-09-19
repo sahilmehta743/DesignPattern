@@ -1,6 +1,6 @@
-package com.java.behavioral.abstractfactory.animal;
+package com.java.creational.abstractfactory.animal;
 
-import com.java.behavioral.abstractfactory.AbstractFactory;
+import com.java.creational.abstractfactory.AbstractFactory;
 
 public class AnimalFactory implements AbstractFactory<Animal> {
     @Override

@@ -1,4 +1,4 @@
-package com.java.behavioral.abstractfactory.color;
+package com.java.creational.abstractfactory.color;
 
 public class White implements Color{
     @Override

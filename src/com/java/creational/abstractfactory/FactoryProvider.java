@@ -1,7 +1,7 @@
-package com.java.behavioral.abstractfactory;
+package com.java.creational.abstractfactory;
 
-import com.java.behavioral.abstractfactory.animal.AnimalFactory;
-import com.java.behavioral.abstractfactory.color.ColorFactory;
+import com.java.creational.abstractfactory.animal.AnimalFactory;
+import com.java.creational.abstractfactory.color.ColorFactory;
 
 public class FactoryProvider {
     public static AbstractFactory getFactory(final String choice) {

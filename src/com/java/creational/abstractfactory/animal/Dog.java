@@ -1,4 +1,4 @@
-package com.java.behavioral.abstractfactory.animal;
+package com.java.creational.abstractfactory.animal;
 
 public class Dog implements Animal {
     @Override
